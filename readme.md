@@ -1,4 +1,4 @@
-# ANiL's Portfolio
+# SHIVA's Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and achievements as a Full Stack Software Developer.
 
